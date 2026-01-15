@@ -41,7 +41,7 @@ The data contains the following columns:
 - Exploratory Data Analysis (EDA) using SQL
 - Sales Segmentation using Python
 - Forecast Analysis using Python
-- Interactive Dashboard Creation using Power BI and Tableau
+- Interactive Dashboard Creation using Power BI
 
 ## Visualization 📊
 
